@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm a beginner developer, who with C Programming and slowly learn Python, MySQL and JavaScript.<br/>
+      I'm a beginner developer, who started out with C Programming and slowly learnt Python, MySQL and JavaScript.<br/>
       I'm currently working on learning API's and improving my current skill-set.<br/>
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>

@@ -11,7 +11,7 @@ const Hero = (props) => (
         I'm Saketh
       </SectionTitle>
       <SectionText>
-        An Anime enthusiast learning to code 🦄
+        A beginner learning to code <br/>
       </SectionText>
       <Button onClick={()=> window.location = '#about'}>Learn More</Button>
     </LeftSection>
