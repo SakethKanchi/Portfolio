@@ -18,7 +18,9 @@ export const About = () => {
                     </h2>
                     <div className={`rounded-xl p-8 ${isDarkMode ? 'border-white/10' : 'border-black/10'} border hover:-translate-y-1 transition-all ${isDarkMode ? 'bg-gray-900/30' : 'bg-[#eff1f5]'}`}>
                         <p className={`${isDarkMode ? 'text-gray-300' : 'text-gray-700'} mb-6`}>
-                            Aspiring Software Engineer with a strong foundation in Java and Machine Learning, and a passion for building innovative web applications and AI-driven solutions.
+                            I'm a Master's student in Computer Science at Stevens Institute of Technology with a strong foundation in full-stack development, machine learning, and backend systems.
+                            <br />
+                            I enjoy building practical, user-focused applications — from web-based ML tools to mobile-first experiences.
                         </p>
                         {/* BACKEND AND FRONTEND SECTION */}
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
